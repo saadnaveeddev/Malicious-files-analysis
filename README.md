@@ -1,6 +1,6 @@
 # Malicious Files Analysis
 
-This repository contains a project for analyzing malicious files using machine learning techniques. The analysis involves preprocessing, exploratory data analysis (EDA), feature engineering, dimensionality reduction, and classification using both traditional machine learning models and deep learning techniques.
+This repository contains a project for analyzing malicious files using machine learning techniques. The analysis involves preprocessing, exploratory data analysis (EDA), feature engineering, dimensionality reduction, and classification using both traditional machine learning models and deep learning techniques
 
 ## Overview
 
